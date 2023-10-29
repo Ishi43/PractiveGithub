@@ -11,7 +11,7 @@ import SwiftUI
 struct PractiveGithubApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Text("hi")
         }
     }
 }
